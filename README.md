@@ -190,8 +190,8 @@ Offering the suggested products and services would benefit Liminal in several wa
 * Long-Term Sustainability
 
     * A diversified product/service portfolio ensures sustainability. As the generative AI landscape evolves, Liminal.ai remains relevant.
-
-
+ 
+---
 For Liminal to consider additional products or services in the field of generative AI, Liminal.ai could leverage a variety of technologies to enhance their offerings. Here are some key technologies they might utilize:
 
 * Generative Pretrained Transformers (GPT)
